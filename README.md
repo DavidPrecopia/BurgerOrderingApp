@@ -1,5 +1,7 @@
 # Burger Ordering App
 
+This project is mirrored on my [BitBucket account.](https://bitbucket.org/davidprecopia/burgerorderingapp/src/master/).
+
 # Architecture
 
 ![Diagram](./pictures/diagram_03-01-22.png)
